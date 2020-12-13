@@ -1,2 +1,2 @@
 # mkabore-python-bc
-Python Project for BC
+Python Project for few algorithms testing
